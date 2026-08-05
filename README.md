@@ -1,62 +1,136 @@
-<h1 align="center">Hi there, I'm Heet Davariya 👋</h1>
+<h1 align="center">Hi 👋, I'm Heet Davariya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=BCA+Student+%7C+Graduating+2026;Frontend+%26+Full-Stack+Developer;Learning+by+rebuilding+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=M.Sc.+IT+Student+at+DA-IICT;Java+Backend+Developer;Aspiring+AI+Engineer;Spring+Boot+%7C+REST+APIs+%7C+Cloud+%7C+AI;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/heet-davariya-7295722b6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Heetdavariya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/heet-davariya-7295722b6">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:heetdavariya2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+# 💫 About Me
 
-- 🎓 BCA student based in **Surat, India** — graduated in **2026**
-- 💻 I learn by rebuilding real products — Zerodha, Netflix, Spotify — to understand how production UIs are actually built
-- 🌱 Currently leveling up in **React** and **Node.js**
-- 🚀 Working on **TradeX**, a stock-trading platform project
-- 📫 Reach me at: **[heetdavariya2@gmail.com]** · **[www.linkedin.com/in/heet-davariya-7295722b6]**
+🎓 Currently pursuing **M.Sc. IT** at **Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar**
+
+💻 Passionate about building scalable backend systems using **Java** and **Spring Boot**
+
+🤖 Exploring **Artificial Intelligence**, **LLMs**, **RAG**, and **AI-powered applications**
+
+📚 Currently learning
+
+- Java
+- Spring Boot
+- System Design
+- Docker
+- AWS
+- AI Engineering
+
+🚀 My goal is to become a **Software Engineer specializing in Java Backend Development and AI Engineering**.
 
 ---
 
-### 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,sql" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### Tools & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode,idea,linux,maven" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description |
-|---|---|
-| [**TradeX**](https://github.com/Heetdavariya/TradeX) | Stock-trading platform UI built with JavaScript |
-| [**zerodha-clone**](https://github.com/Heetdavariya/zerodha-clone) | Frontend clone of Zerodha's trading interface |
-| [**WonderLust**](https://github.com/Heetdavariya/WonderLust) | My first Node.js project — a listings/booking-style app |
+|----------|-------------|
+| **TradeX** | Full-stack stock trading platform inspired by Zerodha |
+| **WonderLust** | Hotel booking platform built using Node.js, Express, MongoDB & EJS |
+| **Netflix Clone** | Responsive Netflix UI recreation |
+| **Spotify Clone** | Music streaming interface clone |
+| **React Landing Page** | Modern responsive landing page |
+| **Expense Tracker** *(Coming Soon)* | Spring Boot REST API |
+| **AI Resume Analyzer** *(Coming Soon)* | AI-powered resume analysis using LLMs |
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heetdavariya&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heetdavariya&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Heetdavariya&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heetdavariya&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Heetdavariya&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com?user=Heetdavariya&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<p align="center"><i>Always learning, always building.</i></p>
+# 📈 Currently Focusing On
+
+✅ Data Structures & Algorithms
+
+✅ Java Backend Development
+
+✅ Spring Boot
+
+✅ REST APIs
+
+✅ System Design
+
+✅ Docker
+
+✅ AWS
+
+✅ Artificial Intelligence
+
+---
+
+# 🌐 Connect With Me
+
+📧 **Email:** heetdavariya2@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/heet-davariya-7295722b6
+
+🐙 **GitHub:** https://github.com/Heetdavariya
+
+---
+
+<p align="center">
+<i>"Building scalable software today while preparing for the AI-powered future."</i>
+</p>
