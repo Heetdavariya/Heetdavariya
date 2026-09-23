@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heet Davariya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=M.Sc.+IT+Student+at+DA-IICT;Java+Backend+Developer;Aspiring+AI+Engineer;Spring+Boot+%7C+REST+APIs+%7C+Cloud+%7C+AI;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=M.Sc.+IT+Student+at+DA-IICT;MERN+Stack+Developer;Aspiring+AI+Engineer;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Focusing+on+Agentic+AI+%26+LLMs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,20 +22,20 @@
 
 🎓 Currently pursuing **M.Sc. IT** at **Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar**
 
-💻 Passionate about building scalable backend systems using **Java** and **Spring Boot**
+💻 Passionate about building full-stack web applications using the **MERN stack** (MongoDB, Express, React, Node.js)
 
-🤖 Exploring **Artificial Intelligence**, **LLMs**, **RAG**, and **AI-powered applications**
+🤖 Exploring **Artificial Intelligence**, with a growing focus on **Agentic AI**, **LLMs**, and **RAG** systems
 
 📚 Currently learning
 
-- Java
-- Spring Boot
+- MongoDB, Express, React, Node.js
+- TypeScript
 - System Design
 - Docker
 - AWS
-- AI Engineering
+- Agentic AI (LangChain, LangGraph, AI Agents)
 
-🚀 My goal is to become a **Software Engineer specializing in Java Backend Development and AI Engineering**.
+🚀 My goal is to become a **Software Engineer specializing in MERN Stack Development and Agentic AI Engineering**.
 
 ---
 
@@ -44,31 +44,39 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,sql" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,python,sql" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### AI / Agentic AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
 </p>
 
 ### Tools & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode,idea,linux,maven" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode,linux" />
 </p>
 
 ---
@@ -82,17 +90,18 @@
 | **Netflix Clone** | Responsive Netflix UI recreation |
 | **Spotify Clone** | Music streaming interface clone |
 | **React Landing Page** | Modern responsive landing page |
-| **Expense Tracker** *(Coming Soon)* | Spring Boot REST API |
+| **Expense Tracker** *(Coming Soon)* | Full MERN stack expense tracking app |
 | **AI Resume Analyzer** *(Coming Soon)* | AI-powered resume analysis using LLMs |
+| **AI Agent Assistant** *(Coming Soon)* | Agentic AI assistant built with LangChain/LangGraph |
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Heetdavariya&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Heetdavariya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heetdavariya&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heetdavariya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%"/>
 </p>
 
 <p align="center">
@@ -105,19 +114,17 @@
 
 ✅ Data Structures & Algorithms
 
-✅ Java Backend Development
+✅ MERN Stack Development (MongoDB, Express, React, Node.js)
 
-✅ Spring Boot
+✅ TypeScript
 
 ✅ REST APIs
 
 ✅ System Design
 
-✅ Docker
+✅ Docker & AWS
 
-✅ AWS
-
-✅ Artificial Intelligence
+✅ Agentic AI (LangChain, LangGraph, AI Agents, RAG)
 
 ---
 
@@ -132,5 +139,5 @@
 ---
 
 <p align="center">
-<i>"Building scalable software today while preparing for the AI-powered future."</i>
+<i>"Building with the MERN stack today while preparing for an agentic AI-powered future."</i>
 </p>
